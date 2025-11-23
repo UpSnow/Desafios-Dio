@@ -10,5 +10,5 @@ Eles fazem parte de exercícios práticos para treinar lógica, funções, class
 Antes de executar qualquer programa, instale o `prompt-sync`:
 
 ```bash
-npm install prompt-sync
+npm install prompt-sync 
  
