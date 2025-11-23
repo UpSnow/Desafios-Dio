@@ -11,3 +11,4 @@ Antes de executar qualquer programa, instale o `prompt-sync`:
 
 ```bash
 npm install prompt-sync
+ 
