@@ -21,8 +21,8 @@ class personagem {
         } else if (this.tipoPersonagem === "Ninja") {
             console.log(`${this.tipoPersonagem} atacou usando  ${ataques.Ninja}`);
         }
-    }
-}
+    } 
+}  
 let quantidadePersonagens = Number(prompt("Quantos personagens deseja criar? "));
 for (let i = 1; i <= quantidadePersonagens; i++) {
 
